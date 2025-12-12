@@ -1,6 +1,6 @@
 {
   "network": "paxeer",
-  "chainId": 80000,
+  "chainId": 229,
   "deployer": "0xF93C8d97df98110E42f2Ad332c164a0bA25beAa8",
   "timestamp": "2025-10-04T10:36:34.290Z",
   "contracts": {
