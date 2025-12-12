@@ -1,9 +1,5 @@
 # ChainFlow  — On-Chain, Trustless Capital Allocation Platform
 
-A decentralized, transparent, and automated capital allocation platform engineered for the future of trading. ChainFlow unites a fully on-chain evaluation and risk engine with a production-grade application stack for onboarding, KYC, trading UX, analytics, and operations.
-
-**Live Dashboard:** **[https://dashboard.paxeer.app](https://dashboard.paxeer.app)**
-
 > Our vision is to build provably fair, trustless trading infrastructure that removes human bottlenecks. We put prop trading rules on-chain, making them open, immutable, and auditable by anyone, delivering instant access and payouts with no opaque processes or centralized gatekeepers.
 
 -----
