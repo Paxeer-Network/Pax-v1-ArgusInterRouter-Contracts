@@ -1,12 +1,10 @@
-# 🎉 Welcome to ChainFlow!
 
-## Your Complete Decentralized Prop Firm is READY! ✅
 
 ---
 
-## 🚀 WHAT YOU HAVE
+## WHAT YOU HAVE
 
-A fully functional, production-ready decentralized proprietary trading firm platform with:
+A fully functional, production-ready capital allocation platform with:
 
 - ✅ **12 Smart Contracts** (2,750+ lines of Solidity)
 - ✅ **9 Deployment Scripts** (Automated deployment)
@@ -16,7 +14,7 @@ A fully functional, production-ready decentralized proprietary trading firm plat
 
 ---
 
-## ⚡ QUICK START (3 Steps)
+## QUICK START (3 Steps)
 
 ### Step 1: Install
 ```bash
@@ -37,19 +35,19 @@ npx hardhat run scripts/deploy/deploy-all.js --network paxeer
 
 ---
 
-## 🔧 CONFIGURATION REQUIRED
+## CONFIGURATION REQUIRED
 
 Edit `.env` file:
 ```bash
 PRIVATE_KEY=your_deployer_private_key_here
-USDC=0x17070D3E350fe9fDda071538840805eF813D4a37
+USDC=
 ```
 
 That's it! The system is ready to deploy.
 
 ---
 
-## 📚 DOCUMENTATION GUIDE
+## DOCUMENTATION GUIDE
 
 | Document | When to Read |
 |----------|-------------|
@@ -62,7 +60,7 @@ That's it! The system is ready to deploy.
 
 ---
 
-## 🎯 WHAT IT DOES
+## WHAT IT DOES
 
 ### For Traders:
 1. Pay 100 USDC evaluation fee
@@ -82,7 +80,7 @@ That's it! The system is ready to deploy.
 
 ---
 
-## 📁 PROJECT STRUCTURE
+## PROJECT STRUCTURE
 
 ```
 ChainProp/
@@ -105,7 +103,7 @@ ChainProp/
 
 ---
 
-## 🎓 KEY FEATURES
+## KEY FEATURES
 
 ✅ **Virtual Evaluation** - Test traders before funding
 ✅ **Soulbound NFTs** - Non-transferable credentials
@@ -117,14 +115,7 @@ ChainProp/
 
 ---
 
-## 💰 DEFAULT SETTINGS
-
-**Evaluation:**
-- Virtual: 10,000 USDC
-- Target: 10% profit
-- Max DD: 5%
-- Period: 30 days
-- Fee: 100 USDC
+## DEFAULT SETTINGS
 
 **Funding:**
 - Capital: 100,000 USDC
@@ -134,7 +125,7 @@ ChainProp/
 
 ---
 
-## ⚠️ BEFORE PRODUCTION
+## BEFORE PRODUCTION
 
 1. ✅ Code is ready
 2. ⚠️ Get security audit
@@ -145,7 +136,7 @@ ChainProp/
 
 ---
 
-## 🧪 TESTING
+## TESTING
 
 ```bash
 # Run all tests
@@ -160,7 +151,7 @@ REPORT_GAS=true npx hardhat test
 
 ---
 
-## 🔐 SECURITY
+## SECURITY
 
 The system includes:
 - Reentrancy guards
@@ -177,16 +168,16 @@ The system includes:
 
 ---
 
-## 📞 SUPPORT
+## SUPPORT
 
-- 📖 Read the docs (all questions answered)
-- 🐛 Issues? Check STATUS_REPORT.md
-- 🚀 Deployment? See DEPLOYMENT_GUIDE.md
-- 🏗️ Architecture? Read ARCHITECTURE.md
+-  Read the docs (all questions answered)
+-  Issues? Check STATUS_REPORT.md
+-  Deployment? See DEPLOYMENT_GUIDE.md
+-  Architecture? Read ARCHITECTURE.md
 
 ---
 
-## ✨ YOU'RE READY TO LAUNCH!
+## YOU'RE READY TO LAUNCH!
 
 Everything is implemented, tested, and documented.
 
@@ -195,7 +186,7 @@ Everything is implemented, tested, and documented.
 2. Run tests locally (5 minutes)
 3. Deploy to testnet (10 minutes)
 4. Get security audit (before mainnet)
-5. Launch! 🚀
+5. Launch! 
 
 ---
 
